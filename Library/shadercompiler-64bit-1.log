@@ -1,0 +1,6 @@
+Base path: /Applications/Unity/Unity.app/Contents
+Pipe name: \\.\pipe\UnityShaderCompiler-64bit-1--227552320
+Cmd: getPlatforms
+Cmd: compileSnippet
+  error: 2 plat 0 at Assets/Light2D/Resources/Shaders/LightBase.cginc(90): 'PATH_TRACKING_SAMPLES' : undeclared identifier\nCompiling Vertex program with ORTHOGRAPHIC_CAMERA
+  api=0 type=0 insize=1953 outsize=0 kw=ORTHOGRAPHIC_CAMERA ok=0

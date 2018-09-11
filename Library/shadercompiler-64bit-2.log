@@ -1,0 +1,9 @@
+Base path: /Applications/Unity/Unity.app/Contents
+Pipe name: \\.\pipe\UnityShaderCompiler-64bit-2-25014272
+Cmd: getPlatforms
+Cmd: compileSnippet
+  error: 2 plat 0 at Assets/Light2D/Resources/Shaders/LightBase.cginc(90): 'PATH_TRACKING_SAMPLES' : undeclared identifier\nCompiling Vertex program with PERSPECTIVE_CAMERA
+  api=0 type=0 insize=1953 outsize=0 kw=PERSPECTIVE_CAMERA ok=0
+End of pipe
+
+Quitting shader compiler process
